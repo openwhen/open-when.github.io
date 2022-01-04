@@ -58,5 +58,90 @@
 		"id": "2",
 		"title": "You Are Stressed",
 		"message": "10 DEEP BREATHS NOW. Remember that time when I tried to breathe with but couldn't because I was sick. Okay, we can continue. I'm so sorry that you feel stressed right now. I don't know who or what did this to you but we'll get through it. I really wish I was there to give you the biggest hug and kisses and make you lay on my butt. Whatever that is we'll work through it, you are not alone. Whatever it is I know you can get through it, reach out to me if there is a slight chance that I can help. I love you and don't forget that you have my support in everything you do."
+	},
+	{
+		"id": "2",
+		"title": "I’m Angry",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Successful",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need a Hug",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Having a Bad Day",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "When You Want To Dance",
+		"message": "https://youtu.be/v8oqbWrP1QY"
+	},
+	{
+		"id": "2",
+		"title": "You Need to Hear a Compliment",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Angry",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Excited",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Miss Me",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Tired",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Sad",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need Some Cheer",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "We’ve Said Goodbye",
+		"message": ""
+	},
+	{
+		"id": "4",
+		"title": "You Need a Laugh",
+		"message": ""
+	},
+	{
+		"id": "5",
+		"title": "It’s Our Anniversary",
+		"message": ""
+	},
+	{
+		"id": "6",
+		"title": "You’re Feeling Happy",
+		"message": ""
+	},
+	{
+		"id": "9",
+		"title": "You Want to Reminisce",
+		"message": ""
 	}
 ]

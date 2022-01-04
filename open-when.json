@@ -1,7 +1,166 @@
+
+
+On Tue, Jan 4, 2022, 05:42 Yaren Çelik <yarencelik373@gmail.com> wrote:
 [
+	{
+		"id": "2",
+		"title": "You get the letters",
+		"message": "It was a very late birthday gift and I am truly sorry about that. Everytime I tried to make it work I either got overwhelmed or emotional. Please open the letters when applies and open at most 2 letters a day and let me know everytime you open one. I hope you'll enjoy every single one of them."
+	},
+	{
+		"id": "1",
+		"title": "You Want to Know Why I Love You",
+		"message": "I love you because you are you. You are the first person I look and don't want to change a thing about. You are the person I can't wait to grow with. You make me feel like I can be whoever I want and do whatever I want to do. Like in the song 'Somebody to Someone' you are not only my someone, my everything now. Your smell, every look, every touch, every word give me butterflies. You are the first thing I think about when I wake up and last thing I think about when i fall asleep since the first day we met and I have no intention for it to change."
+	},
+	
+	{
+		"id": "4",
+		"title": "You Need a Laugh",
+		"message": ""
+	},
+	{
+		"id": "5",
+		"title": "It’s Our Anniversary",
+		"message": ""
+	},
+	{
+		"id": "6",
+		"title": "You’re Feeling Happy",
+		"message": ""
+	},
+	{
+		"id": "7",
+		"title": "It’s Valentine’s Day",
+		"message": "I hope we are reading this together right now. I hope I woke up in your arms and we have our day planned by me. If I am not there it is okay because we will have so many chances to celebrate so many events. In both ways I'm feeling like I'm the luckiest girl in the world to be your valentine. You let me love you as much as I want and that is the biggest gift. You are a gift to me. Thank you for teaching what love really means. Happy Valentines Day❤"
+	},
+	{
+		"id": "8",
+		"title": "You Are Feeling Lonely",
+		"message": ""
+	},
+	{
+		"id": "9",
+		"title": "You Want to Reminisce",
+		"message": ""
+	},
+	{
+		"id": "10",
+		"title": "It’s Christmas Day",
+		"message": "I'm too late for 2022 Christmas but thank you for making my first Christmas so special. I feel like we should remember our celebration so here is our program Opening Talk by Yaren Çelik, Christmas Tree Lighting Ceremony,Christmas Prayer by Noah T. Heacock,Dance Performance by Yaren Çelik,Writing Letters to Santa,Christmas Carols by Noah T. Heacock,‘Twas the Night Before Christmas',First Traditional Family Bingo,Family Christmas Photo,Christmas Movie (will be picked by N.T. Heacock),Kisses Under The Mistleto"
+	},
 	{
 		"id": "2",
 		"title": "You Can’t Fall Asleep",
 		"message": "Here are some sheep for you to count: 🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑🐑"
+	},
+	{
+		"id": "2",
+		"title": "You’re Excited",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Miss Me",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Tired",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Overwhelmed",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Sad",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need Some Cheer",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "We’ve Said Goodbye",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You're Worried About Our Future",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Angry",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Frustrated with Work",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Are Sick",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "I’m Driving You Crazy",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Are Stressed",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Are Worried About Our Future",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "I’m Angry",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Feel Successful",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need a Hug",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You’re Having a Bad Day",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "When You Want To Dance",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need to Hear a Compliment",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "You Need Some Motivation",
+		"message": ""
+	},
+	{
+		"id": "2",
+		"title": "When I'm There",
+		"message": ""
 	}
 ]
